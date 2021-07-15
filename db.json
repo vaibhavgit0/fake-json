@@ -101,6 +101,24 @@
             "active": "1",
             "default_approval_type": "1",
             "can_approval_update": "1"
+        },
+        {
+            "ID_User": "608",
+            "NameFirst": "Jay",
+            "NameLast": "Test",
+            "UserPhone": "8888305323",
+            "UserEmail": "test1@prosperasoft.com",
+            "CompanyName": null,
+            "id_CustomerInternal": "1005",
+            "password": "a4Jfue7NjE",
+            "ViewProofs": "2",
+            "RetireProofs": "2",
+            "CreateProofs": "1",
+            "username": "test1@prosperasoft.com",
+            "active": "1",
+            "default_approval_type": "0",
+            "can_approval_update": "0"
+
         }
     ],
     "customers": [
