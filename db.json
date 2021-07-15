@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstname": "Jay",
+            "lastname": "Malanga",
+            "email": "jay@shopworx.com",
+            "company": "ShopWorks",
+            "role": "admin"
+        },
+        {
+            "id": "2",
+            "firstname": "Jay",
+            "lastname": "Test",
+            "email": "test1@prosperasoft.com",
+            "company": "Prospera",
+            "role": "user"
+        }
+    ]
+}
